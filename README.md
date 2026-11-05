@@ -78,3 +78,7 @@ To deploy:
 - AWS Lambda
 - Gson
 - Gradle Shadow Plugin
+
+### Live AWS Lambda Function
+
+https://73yhz2ezkz5htuanv5drawsovy0jnpfn.lambda-url.us-east-2.on.aws/
